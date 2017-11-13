@@ -24,7 +24,6 @@ body h1,h2{
 
 .background img{
   width: 100%;
-
   min-height: 63.1vh;
   filter: blur(3px) ;
   filter: brightness(78%);
@@ -51,7 +50,7 @@ body h1,h2{
 
 .nav-bar img{
   width: 250px;
-  height: 100px;
+  height: 90px;
 }
 
 .nav-bar ul li a{
@@ -138,11 +137,9 @@ body h1,h2{
 }
 
 #details p{
-  padding-bottom: 1em;
-}
-
-#details h2{
-
+  padding-bottom: 2em;
+  text-decoration: underline;
+  letter-spacing: .7px;
 }
 
 #map img{
